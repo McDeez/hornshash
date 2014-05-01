@@ -1,0 +1,23 @@
+{
+  "name": "hornshash",
+  "version": "0.0.1",
+  "description": "A Very memory human readible hash",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/McDeez/hornshash.git"
+  },
+  "keywords": [
+    "human",
+    "hash"
+  ],
+  "author": "Nathan Giardina <mcdick@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/McDeez/hornshash/issues"
+  },
+  "homepage": "https://github.com/McDeez/hornshash"
+}
